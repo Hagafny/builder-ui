@@ -1,7 +1,7 @@
 {
   "name": "builder-ui",
   "version": "0.1.0",
-  "homepage": "https://gitname.github.io/mixtiles-builder-ui",
+  "homepage": "https://hagafny.github.io/mixtiles-builder-ui",
   "private": true,
   "dependencies": {
     "@builder.io/react": "^2.0.13",
