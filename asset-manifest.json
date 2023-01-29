@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mixtiles-builder-ui/static/css/main.e6c13ad2.css",
+    "main.js": "/mixtiles-builder-ui/static/js/main.d0c73e2f.js",
+    "static/js/787.31a58962.chunk.js": "/mixtiles-builder-ui/static/js/787.31a58962.chunk.js",
+    "index.html": "/mixtiles-builder-ui/index.html",
+    "main.e6c13ad2.css.map": "/mixtiles-builder-ui/static/css/main.e6c13ad2.css.map",
+    "main.d0c73e2f.js.map": "/mixtiles-builder-ui/static/js/main.d0c73e2f.js.map",
+    "787.31a58962.chunk.js.map": "/mixtiles-builder-ui/static/js/787.31a58962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.d0c73e2f.js"
+  ]
+}
